@@ -11,4 +11,6 @@ huggingface-hub
 
 # uncomment to use instructor embeddings
 InstructorEmbedding
-sentence_transformation
+sentence-transformers
+langchain_community
+langchain_groq
