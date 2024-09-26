@@ -1,6 +1,13 @@
 # PDF Conversational Chatbot
 
-A web-based application that allows users to upload multiple PDF documents and engage in a conversation with the content. The system utilizes language models, vector storage, and conversational memory to retrieve and provide intelligent answers based on the uploaded documents.
+A web-based application that allows users to upload multiple PDF documents and engage in a conversation with the content. The system utilizes language models, vector storage, and conversational memory to retrieve and provide intelligent answers based on the uploaded documents. 
+
+**What makes this application unique** is that it not only provides the answers to your queries but also includes the **PDF name** and **page number** from which the response was retrieved, offering full transparency and traceability.
+Check out the user interface below:
+./__screenshorts/streamlit-gui.png
+
+
+---
 
 ## Features
 
